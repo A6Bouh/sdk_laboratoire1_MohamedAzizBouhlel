@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\",
+  "WorkspaceRootPath": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|c:\\users\\azizb\\onedrive\\desktop\\repos\\sdk_laboratoire1\\librairieconversionnote\\librairieconversionnote.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|solutionrelative:librairieconversionnote\\librairieconversionnote.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0C30E386-9FB7-46C7-9B87-85C51F83E31A}|SDK_Laboratoire1\\SDK_Laboratoire1.csproj|c:\\users\\azizb\\onedrive\\desktop\\sdk_laboratoire1\\sdk_laboratoire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C30E386-9FB7-46C7-9B87-85C51F83E31A}|SDK_Laboratoire1\\SDK_Laboratoire1.csproj|solutionrelative:sdk_laboratoire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|c:\\users\\azizb\\onedrive\\desktop\\repos\\sdk_laboratoire1\\librairieconversionnote\\conversionalphabetiquetonote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|c:\\users\\azizb\\onedrive\\desktop\\sdk_laboratoire1\\librairieconversionnote\\conversionalphabetiquetonote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|solutionrelative:librairieconversionnote\\conversionalphabetiquetonote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C30E386-9FB7-46C7-9B87-85C51F83E31A}|SDK_Laboratoire1\\SDK_Laboratoire1.csproj|c:\\users\\azizb\\onedrive\\desktop\\repos\\sdk_laboratoire1\\sdk_laboratoire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C30E386-9FB7-46C7-9B87-85C51F83E31A}|SDK_Laboratoire1\\SDK_Laboratoire1.csproj|solutionrelative:sdk_laboratoire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|c:\\users\\azizb\\onedrive\\desktop\\sdk_laboratoire1\\librairieconversionnote\\librairieconversionnote.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88F7481B-6698-4139-8D7E-3FC083A99998}|LibrairieConversionNote\\LibrairieConversionNote.csproj|solutionrelative:librairieconversionnote\\librairieconversionnote.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LibrairieConversionNote",
-              "DocumentMoniker": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
-              "RelativeDocumentMoniker": "LibrairieConversionNote\\LibrairieConversionNote.csproj",
-              "ToolTip": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
-              "RelativeToolTip": "LibrairieConversionNote\\LibrairieConversionNote.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-16T23:15:03.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ConversionAlphabetiqueToNote.cs",
-              "DocumentMoniker": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\ConversionAlphabetiqueToNote.cs",
+              "DocumentMoniker": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\ConversionAlphabetiqueToNote.cs",
               "RelativeDocumentMoniker": "LibrairieConversionNote\\ConversionAlphabetiqueToNote.cs",
-              "ToolTip": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\ConversionAlphabetiqueToNote.cs",
+              "ToolTip": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\ConversionAlphabetiqueToNote.cs",
               "RelativeToolTip": "LibrairieConversionNote\\ConversionAlphabetiqueToNote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,16 +39,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\SDK_Laboratoire1\\Program.cs",
               "RelativeDocumentMoniker": "SDK_Laboratoire1\\Program.cs",
-              "ToolTip": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\SDK_Laboratoire1\\Program.cs",
+              "ToolTip": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\SDK_Laboratoire1\\Program.cs",
               "RelativeToolTip": "SDK_Laboratoire1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T17:02:06.519Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrairieConversionNote.csproj",
+              "DocumentMoniker": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+              "RelativeDocumentMoniker": "LibrairieConversionNote\\LibrairieConversionNote.csproj",
+              "ToolTip": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+              "RelativeToolTip": "LibrairieConversionNote\\LibrairieConversionNote.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T23:15:03.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

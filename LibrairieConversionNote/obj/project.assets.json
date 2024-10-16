@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+      "projectUniqueName": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
       "projectName": "LibrairieConversionNote",
-      "projectPath": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+      "projectPath": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
       "packagesPath": "C:\\Users\\azizb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azizb\\OneDrive\\Desktop\\repos\\SDK_Laboratoire1\\LibrairieConversionNote\\obj\\",
+      "outputPath": "C:\\Users\\azizb\\OneDrive\\Desktop\\SDK_Laboratoire1\\LibrairieConversionNote\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

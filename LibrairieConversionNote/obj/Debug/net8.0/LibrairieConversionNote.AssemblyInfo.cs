@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibrairieConversionNote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+627a4cb89991c103df913d8dc9f3eeb268c80af8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f1e5d89cba7a0ba2bc9cd8732aed7041059fa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibrairieConversionNote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibrairieConversionNote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
